@@ -64,3 +64,7 @@ Design Pattern คือ แนวทางการเขียนโปรแ�
 
 
 http://www.dofactory.com/javascript/singleton-design-pattern
+https://sourcemaking.com/
+https://www.algorithmtut.com/%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%9A-mvc-vs-flux/
+https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture
+http://sergeyzhuk.me/2017/05/22/when-to-factory/
